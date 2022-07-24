@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Todo.css"],"names":[],"mappings":"AAAA,UACI,YACJ,CACA,UACI,eAAgB,CAChB,gBACJ,CACA,WACI,4BACJ","file":"main.d202da96.chunk.css","sourcesContent":[".main-row{\r\n    height: 100vh;\r\n}\r\n.main-col{\r\n    max-width: 500px;\r\n    min-height: 300px;\r\n}\r\n.todo-done{\r\n    text-decoration: line-through;\r\n}"]}
